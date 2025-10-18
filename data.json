@@ -1,0 +1,255 @@
+{
+  "personal_info": {
+    "name": "Youssef Wael",
+    "title": "Senior Flutter Developer | Cross-Platform Mobile Applications",
+    "profile_image": "assets/profile/profile.jpeg",
+    "location": "Cairo, Egypt",
+    "contact": {
+      "phone": "+20 102 225 3635",
+      "email": "devyoussefelmasry@gmail.com"
+    },
+    "social_links": [
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/wasp2012"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/in/youssef-elmasry-a3078b192"
+      }
+    ],
+    "cv_download": "assets/downloads/youssef_flutter_cv.pdf",
+    "about_me": "Senior Flutter Developer with 3+ years of experience designing and delivering high-performance, cross-platform mobile applications for e-commerce, education, real estate, POS, and HR sectors. Specialized in Flutter, Dart, Clean Architecture, and CI/CD pipelines. Proven ability to optimize app performance, deliver measurable business results — including reducing load times by up to 40% and cutting deployment cycles from days to hours. Published multiple apps on both Google Play and App Store."
+  },
+  "projects_num": "8",
+  "experience_num": "3",
+  "customers_num": "12",
+  "skills": {
+    "soft_skills": [
+      "Team Collaboration",
+      "Leadership",
+      "Time Management",
+      "Communication Skills",
+      "Critical Thinking",
+      "Research-Oriented",
+      "Adaptable",
+      "Detail-Oriented",
+      "Self-Learner"
+    ],
+    "technical_skills": [
+      "Flutter and Dart",
+      "Kotlin and Swift",
+      "RESTful APIs, Firebase, SQLite, and Hive",
+      "MVVM and Clean Architecture",
+      "State Management (Bloc, Riverpod, Provider)",
+      "OOP, SOLID Principles, and Design Patterns",
+      "Git, GitHub, GitLab, and CI/CD pipelines",
+      "Problem Solving and Debugging",
+      "Agile and Scrum Methodologies"
+    ]
+  },
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science",
+      "institution": "Modern Academy",
+      "date_range": "Sep 2018 - Jun 2022"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior Flutter Developer",
+      "company": "Impact Business Solution",
+      "location": "Cairo, Egypt",
+      "date_range": "May 2024 – Present",
+      "description_points": [
+        "Developed and maintained high-quality Flutter applications using clean architecture and modular design.",
+        "Led app store deployments and managed post-launch optimization and support.",
+        "Collaborated with cross-functional teams to deliver innovative, scalable mobile solutions integrating APIs and hardware.",
+        "Optimized app performance, reducing load times by up to 40%."
+      ]
+    },
+    {
+      "title": "Flutter Developer",
+      "company": "Beshara Group",
+      "location": "Cairo, Egypt",
+      "date_range": "Sep 2022 – May 2024",
+      "description_points": [
+        "Developed and deployed Flutter applications for various government and enterprise clients.",
+        "Integrated third-party APIs, multilingual features, and complex state management solutions.",
+        "Enhanced application stability and performance through structured testing and code reviews.",
+        "Collaborated with UI/UX teams to deliver user-friendly and visually consistent interfaces."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "SabPay",
+      "cover_image": "assets/covers/sab-logo.png",
+      "short_description": "A secure, multilingual mobile payment application with real-time transaction updates.",
+      "description": "Sab Pay is a mobile payment platform developed using Flutter, offering secure transactions, multilingual (Arabic/English) interfaces, and seamless financial operations. The app ensures reliability through integrated payment APIs, real-time updates, and intuitive design.",
+      "features": [
+        "Secure payment processing",
+        "Multilingual support (Arabic/English)",
+        "Real-time transaction updates",
+        "Intuitive UI/UX design",
+        "Unit and integration testing",
+        "App Store and Play Store deployment"
+      ],
+      "technologies_used": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "Dio",
+        "Cubit"
+      ],
+      "links": [
+        {
+          "type": "Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.ex.sabpay&hl=en"
+        },
+        {
+          "type": "App Store",
+          "url": "https://apps.apple.com/us/app/sab-pay-%D8%B3%D8%A7%D8%A8-%D8%A8%D8%A7%D9%8A/id6737377661"
+        }
+      ],
+      "media": []
+    },
+    {
+      "name": "Ez Academy",
+      "cover_image": "assets/covers/ez-academy-logo.png",
+      "short_description": "A cross-platform educational app for TOEFL and IELTS preparation.",
+      "description": "Ez Academy delivers online educational content for English proficiency exams like TOEFL and IELTS. It supports multilingual access, dynamic pricing, and in-app purchases for premium content, offering a smooth and engaging user experience.",
+      "features": [
+        "Multilingual support (English/Arabic)",
+        "Dynamic pricing by region",
+        "In-app purchases for premium content",
+        "Course navigation and video streaming",
+        "Progress tracking",
+        "Privacy compliance and version management"
+      ],
+      "technologies_used": [
+        "Flutter",
+        "Firebase",
+        "Dio",
+        "Provider"
+      ],
+      "links": [
+        {
+          "type": "Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.ez.academy"
+        },
+        {
+          "type": "App Store",
+          "url": "https://apps.apple.com/eg/app/ez-academy/id1671893533"
+        }
+      ],
+      "media": []
+    },
+    {
+      "name": "Restaurant Apps Suite",
+      "cover_image": "assets/covers/restaurant-app-suite.png",
+      "short_description": "A collection of restaurant e-commerce apps enabling seamless ordering and delivery.",
+      "description": "A suite of restaurant apps developed using Flutter, supporting online ordering, payment integration, and delivery tracking. Each app includes multilingual support, location-based features, and real-time order updates for enhanced user experience.",
+      "features": [
+        "Online ordering and delivery tracking",
+        "Multilingual support (Arabic/English)",
+        "Location-based services",
+        "Secure payment integration",
+        "Real-time notifications",
+        "Custom UI for restaurant branding"
+      ],
+      "technologies_used": [
+        "Flutter",
+        "Dio",
+        "Provider",
+        "Firebase",
+        "Local Notifications"
+      ],
+      "links": [
+        {
+          "type": "Google Play - Sushi",
+          "url": "https://play.google.com/store/apps/details?id=com.majestic.sushikw"
+        },
+          {
+          "type": "App Store - Sushi",
+          "url": "https://apps.apple.com/kw/app/sushi-group/id6504819032"
+        },
+         {
+          "type": "Google Play - Banner",
+          "url": "https://play.google.com/store/apps/details?id=com.majestic.banner.android"
+        },
+        {
+          "type": "App Store - Banner",
+          "url": "https://apps.apple.com/eg/app/majestic-banner/id6448794003"
+        },
+            {
+          "type": "Google Play - Trebianco",
+          "url": "https://play.google.com/store/apps/details?id=com.majesticc.trebiancooo"
+        },
+        {
+          "type": "App Store - Trebianco",
+          "url": "https://apps.apple.com/kw/app/trebianco/id1629046249"
+        },
+        {
+          "type": "App Store - Algedawy",
+          "url": "https://apps.apple.com/eg/app/algedawy-%D8%A7%D9%84%D8%AC%D8%AF%D8%A7%D9%88%D9%8A/id6479024640"
+        },
+             {
+          "type": "Google Play - Basma",
+          "url": "https://play.google.com/store/apps/details?id=com.majesticc.basma"
+        }
+      ],
+          "media": [
+        {
+          "type": "screenshot",
+          "url": "assets/covers/restaurants/banner.png"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/covers/restaurants/basma.png"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/covers/restaurants/gedawy.png"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/covers/restaurants/sushi.jpeg"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/covers/restaurants/tawah.png"
+        },
+        {
+          "type": "screenshot",
+          "url": "assets/covers/restaurants/trebianco.png"
+        }
+      ]
+    },  
+    {
+      "name": "Najeh",
+      "cover_image": "assets/covers/najeh.png",
+      "short_description": "A secure learning management system (LMS) for students in Kuwait schools.",
+      "description": "Najeh is a comprehensive LMS platform designed for school students in Kuwait. It offers subject-based courses that users can securely purchase and watch through the app. The application ensures content protection by disabling screenshots and screen recording. It integrates a reliable payment gateway and offers a seamless educational experience through intuitive navigation and high performance.",
+      "features": [
+        "Secure playback (no screenshots or screen recording)",
+        "Payment gateway integration for course purchases",
+        "Subject-based course organization",
+        "User progress tracking",
+        "Responsive and modern user interface",
+        "Localization support for multiple languages"
+      ],
+      "technologies_used": [
+        "Flutter",
+        "Cubit (State Management)",
+        "Dio",
+        "Easy Localization",
+        "GetIt (Dependency Injection)",
+        "Firebase",
+        "RESTful APIs"
+      ],
+      "links": [],
+      "media": []
+    }
+  ]
+}
